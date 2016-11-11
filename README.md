@@ -89,10 +89,12 @@ Console.WriteLine ("(พิกัดเเกน x , พิกัดเเกน
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic7.png)
 
   6.2). รันโปรแกรม และบันทึกผลที่ได้
+  ![](https://github.com/tbnoung/LAB-05/blob/master/5.7.PNG)
   
 
 ## แบบฝึกหัด จงระบุ output ของบรรทัดคำสั่งต่อไปนี้
 
+![](https://github.com/tbnoung/LAB-05/blob/master/5.8.PNG)
 ```csharp
 1.  string name = "Hello";
     Console.WriteLine(String.Format("{0} there. I said {0}! {0}???", name));
