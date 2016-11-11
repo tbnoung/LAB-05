@@ -51,11 +51,7 @@ Console.WriteLine("{0} and {2} and {3}", 3, 6,7,8);
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic3.png)
 
  2.6). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+![](https://github.com/tbnoung/LAB-05/blob/master/5.3.3.PNG)
 
 3). ทดลองเรื่องการกำหนดความกว้างของอาร์กิวเมนต์
 
@@ -64,18 +60,11 @@ Console.WriteLine("{0} and {2} and {3}", 3, 6,7,8);
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic4.png)
 
   3.2). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+![](https://github.com/tbnoung/LAB-05/blob/master/5.4.PNG)
 
 ###คำถาม 5.3 การกำหนดความกว้างของอาร์กิวเมนต์ด้วยเครื่องหมาย { , }  ในคำสั่ง Console.WriteLine() มีรูปแบบการใช้งานอย่างไร
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+Console.WriteLine ("(พิกัดเเกน x , พิกัดเเกน y)",ค่าที่จะให้เเสดงผลออก)
 
 
 4). ทดลองเรื่องการกำหนดรูปแบบของอาร์กิวเมนต์
